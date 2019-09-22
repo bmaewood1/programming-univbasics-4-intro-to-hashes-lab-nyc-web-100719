@@ -4,12 +4,15 @@ end
 
 def my_hash
   my_hash = {
-    "bread" => 5.00
+    "bread" => 5.00,
+    "eggs" => 3.00
   }
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  pioneer = {
+    :name => 
+  } 
 end
 
 def id_generator
